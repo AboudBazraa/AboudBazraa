@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=vite,vscode,vercel,figma,github,postman,linux,bash,nginx" />
 </p>
 
-
+<img src="./img.png" width="100%" />
 <!--
 ### 📊 GitHub Stats
 <p align="center">
