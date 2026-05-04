@@ -1,9 +1,6 @@
 <!-- Animated Header -->
-<h1 align="center">
-  Hi 👋, I'm Abod Mohammed
-</h1>
-
 <p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=180&section=header&text=Hi%20I'm%20Abod%20Mohammed&fontSize=35&fontColor=ffffff" />
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;React+%7C+Next.js+Specialist;Building+Modern+Web+Apps;Always+Learning+New+Things" />
 </p>
 
@@ -22,6 +19,7 @@
   <!-- Tools & Productivity (السطر الثالث الجديد) -->
   <img src="https://skillicons.dev/icons?i=vite,vscode,vercel,figma,github,postman,linux,bash,nginx" />
 </p>
+
 
 <!--
 ### 📊 GitHub Stats
